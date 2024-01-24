@@ -23,7 +23,7 @@
  }
 
  .header__navigation .navigation .arrow-left {
-    margin-right: 1,25rem;
+    margin-right: 1.25rem;
  }
 
  .arrow-left, .arrow-right {
@@ -34,8 +34,8 @@
     height: 32px;
     background: var(--bg-icon);
     background-color: var(--bg-arrow-color);
-    border: none;
     border-radius: 50%;
+    border: none;
     cursor: pointer;
  }
 
@@ -80,7 +80,7 @@
     margin-right: 32px;
  }
 
- .header__login .header__login {
+ .header__login .login {
     width: 100px;
     height: 48px;
     color: #000;
